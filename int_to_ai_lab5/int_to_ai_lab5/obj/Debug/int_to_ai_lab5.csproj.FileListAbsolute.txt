@@ -1,0 +1,6 @@
+c:\users\bahadırakın\documents\visual studio 2013\Projects\int_to_ai_lab5\int_to_ai_lab5\bin\Debug\int_to_ai_lab5.exe.config
+c:\users\bahadırakın\documents\visual studio 2013\Projects\int_to_ai_lab5\int_to_ai_lab5\obj\Debug\int_to_ai_lab5.csprojResolveAssemblyReference.cache
+c:\users\bahadırakın\documents\visual studio 2013\Projects\int_to_ai_lab5\int_to_ai_lab5\bin\Debug\int_to_ai_lab5.exe
+c:\users\bahadırakın\documents\visual studio 2013\Projects\int_to_ai_lab5\int_to_ai_lab5\bin\Debug\int_to_ai_lab5.pdb
+c:\users\bahadırakın\documents\visual studio 2013\Projects\int_to_ai_lab5\int_to_ai_lab5\obj\Debug\int_to_ai_lab5.exe
+c:\users\bahadırakın\documents\visual studio 2013\Projects\int_to_ai_lab5\int_to_ai_lab5\obj\Debug\int_to_ai_lab5.pdb

@@ -1,0 +1,9 @@
+c:\users\bahadırakın\documents\visual studio 2013\Projects\Int_to_AI_lab_7\Int_to_AI_lab_7\bin\Debug\Int_to_AI_lab_7.exe.config
+C:\Users\BahadırAkın\Documents\Visual Studio 2013\Projects\Int_to_AI_lab_7\Int_to_AI_lab_7\obj\Debug\Int_to_AI_lab_7.csprojResolveAssemblyReference.cache
+C:\Users\BahadırAkın\Documents\Visual Studio 2013\Projects\Int_to_AI_lab_7\Int_to_AI_lab_7\bin\Debug\Int_to_AI_lab_7.exe
+C:\Users\BahadırAkın\Documents\Visual Studio 2013\Projects\Int_to_AI_lab_7\Int_to_AI_lab_7\bin\Debug\Int_to_AI_lab_7.pdb
+C:\Users\BahadırAkın\Documents\Visual Studio 2013\Projects\Int_to_AI_lab_7\Int_to_AI_lab_7\obj\Debug\Int_to_AI_lab_7.exe
+C:\Users\BahadırAkın\Documents\Visual Studio 2013\Projects\Int_to_AI_lab_7\Int_to_AI_lab_7\obj\Debug\Int_to_AI_lab_7.pdb
+G:\Akın\Dersler\C#\Visual Studio 2013\Projects\Int_to_AI_lab_7\Int_to_AI_lab_7\bin\Debug\Int_to_AI_lab_7.exe.config
+G:\Akın\Dersler\C#\Visual Studio 2013\Projects\Int_to_AI_lab_7\Int_to_AI_lab_7\obj\Debug\Int_to_AI_lab_7.exe
+G:\Akın\Dersler\C#\Visual Studio 2013\Projects\Int_to_AI_lab_7\Int_to_AI_lab_7\obj\Debug\Int_to_AI_lab_7.pdb

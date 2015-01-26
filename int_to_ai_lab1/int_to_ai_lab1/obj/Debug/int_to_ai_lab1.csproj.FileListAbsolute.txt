@@ -1,0 +1,9 @@
+C:\Users\BahadırAkın\documents\visual studio 2013\Projects\int_to_ai_lab1\int_to_ai_lab1\bin\Debug\int_to_ai_lab1.exe.config
+C:\Users\BahadırAkın\documents\visual studio 2013\Projects\int_to_ai_lab1\int_to_ai_lab1\bin\Debug\int_to_ai_lab1.exe
+C:\Users\BahadırAkın\documents\visual studio 2013\Projects\int_to_ai_lab1\int_to_ai_lab1\bin\Debug\int_to_ai_lab1.pdb
+C:\Users\BahadırAkın\documents\visual studio 2013\Projects\int_to_ai_lab1\int_to_ai_lab1\obj\Debug\int_to_ai_lab1.exe
+C:\Users\BahadırAkın\documents\visual studio 2013\Projects\int_to_ai_lab1\int_to_ai_lab1\obj\Debug\int_to_ai_lab1.pdb
+C:\Users\BahadırAkın\documents\visual studio 2013\Projects\int_to_ai_lab1\int_to_ai_lab1\obj\Debug\int_to_ai_lab1.csprojResolveAssemblyReference.cache
+G:\Akın\Dersler\C#\Visual Studio 2013\Projects\int_to_ai_lab1\int_to_ai_lab1\bin\Debug\int_to_ai_lab1.exe.config
+G:\Akın\Dersler\C#\Visual Studio 2013\Projects\int_to_ai_lab1\int_to_ai_lab1\obj\Debug\int_to_ai_lab1.exe
+G:\Akın\Dersler\C#\Visual Studio 2013\Projects\int_to_ai_lab1\int_to_ai_lab1\obj\Debug\int_to_ai_lab1.pdb
